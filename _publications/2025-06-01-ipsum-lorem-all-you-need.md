@@ -5,9 +5,9 @@ category: conferences
 permalink: /publication/2025-06-01-ipsum-lorem-all-you-need
 excerpt: 'This paper introduces a novel approach to simplifying LLM architectures, demonstrating that Ipsum Lorem techniques can achieve competitive performance with reduced computational costs.'
 date: 2025-06-01
-venue: 'COML 2025 - Conference on Machine Learning (Oral Presentation)'
+venue: 'COML 2025 - Conference on Machine Learning (Accepted, Oral Presentation; camera-ready deadline extended to 2025-12-16 AoE)'
 slidesurl: 'http://yourwebsite.com/files/slides-ipsum-lorem.pdf'
 paperurl: 'https://openreview.net/forum?id=example123'
 bibtexurl: 'http://yourwebsite.com/files/bibtex-ipsum-lorem.bib'
-citation: 'John Smith, et al. (2025). "Ipsum Lorem is all you need." <i>COML 2025 - Conference on Machine Learning</i> (Oral Presentation).'
+citation: 'John Smith, et al. (2025). "Ipsum Lorem is all you need." <i>COML 2025 - Conference on Machine Learning</i> (Accepted, Oral Presentation).'
 ---
